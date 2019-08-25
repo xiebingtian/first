@@ -1,2 +1,14 @@
 下载node.js并安装https://nodejs.org/en/
+安装成功  检测  node -v npm -v
+检测成功下载 
+# 全局安装 vue-cli
+$ npm install --global vue-cli
 
+# 创建一个基于 mpvue-quickstart 模板的新项目
+$ vue init mpvue/mpvue-quickstart my-project
+
+# 安装依赖，走你
+$ cd my-project
+$ npm install
+$ npm run dev
+运行成功  操作
