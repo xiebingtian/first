@@ -1,0 +1,2 @@
+下载node.js并安装https://nodejs.org/en/
+
